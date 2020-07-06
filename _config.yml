@@ -1,11 +1,11 @@
 # Site settings
-author: Joseph cohen
-title: 
+author: Joseph Cohen
+title: Flatiron Blog page
 header-img: img/home-bg.png
 email: jojocohen57@gmail.com
-copyright_name: Joseph cohen
+copyright_name: Joseph Cohen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blogs
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JOCOghub

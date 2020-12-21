@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React-Redux, the next step, and looking back"
-date:       2020-12-21 19:12:50 +0000
+date:       2020-12-21 14:12:51 -0500
 permalink:  react-redux_the_next_step_and_looking_back
 ---
 
